@@ -32,7 +32,7 @@ const Login = () => {
                     onSubmit={onSubmit}
                 >
                     <div className="campo-form">
-                        <label htmlFor="email">Email</label>
+                        <label htmlFor="email">Correo</label>
                         <input
                             type="email"
                             id="email"
